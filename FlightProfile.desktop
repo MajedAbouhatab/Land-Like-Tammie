@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=python3 /home/pi/Desktop/FlightProfile.py
+Icon=idle
+Type=Application
+Name[en_US]=FlightProfile.desktop
